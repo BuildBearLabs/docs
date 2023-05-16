@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Fork 🍴the F*ing Mainnet! Do a transaction from Vitalik’s Account ;)
+# Forking Mainnet! Do a transaction from Vitalik’s Account 
 
 > Creating a copy of something that already exists is known as
 > 
