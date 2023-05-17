@@ -49,8 +49,8 @@ That is it.  Once the above is done, run your scripts to deploy and verify your 
 
 NOTE: Your dashboard should provide the code snippets.  Sample screenshots below: 
 
-![Untitled](./images/Untitled%208.png)
+![Untitled](./images/Dasboard.png)
 
-![Untitled](./images/Untitled%209.png)
+![Untitled](./images/config.jpeg)
 
 ## If you are facing any issues with BuildBear, feel free to report them to us at **[team@buildbear.io](mailto:team@buildbear.io)**

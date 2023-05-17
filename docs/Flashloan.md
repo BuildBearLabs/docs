@@ -61,9 +61,9 @@ Because we are going to fork the mainnet to test the Flashswap. Therefore, your 
 
 ![carbon.png](FlashSwap/carbon.png)
 
-Also, if you’re new to mainnet forking, read [Fork 🍴the F*ing Mainnet! Do a transaction from Vitalik’s Account ;) ](https://www.notion.so/Fork-the-F-ing-Mainnet-Do-a-transaction-from-Vitalik-s-Account-01c47af9e7d84060812007f26f33a7d9) and then follow along with this article. 
+Also, if you’re new to mainnet forking, read [Fork 🍴the F*ing Mainnet! Do a transaction from Vitalik’s Account ;) ](http://localhost:3000/docs/Forking-Mainnet-Do-a-transaction-from-Vitalik%E2%80%99s-Account) and then follow along with this article. 
 
-We are going to use BuildBear for our testing purposes: Refer to the [Getting Started](https://www.notion.so/Getting-Started-8e561563dd2e410c969874ba3c1684ee) Guide on how to use BuildBear.
+We are going to use BuildBear for our testing purposes: Refer to the [Getting Started](http://localhost:3000/docs/intro) Guide on how to use BuildBear.
 
 ## 3. Write a smart contract for Flash swap
 

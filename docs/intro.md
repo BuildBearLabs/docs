@@ -13,29 +13,39 @@ So without wasting any more time, Let us begin 🚀
 
 ## STEP 1: Sign in to the BuildBear Dashboard
 
-In order to create a node, follow this [link](https://bit.ly/buildbear-dashboard) and **sign in** using your Github Account.
+In order to create a node, follow this [link](https://bit.ly/buildbear-dashboard) and **Log in** with using your Github or Google Account.
 
-![Untitled](./images/Untitled.png)
+![Untitled](./images/Untitled.jpeg)
 
 Once you’re logged in, you will be able to see a page similar to the image below
 
-![Untitled](./images/Untitled1.png)
+![Untitled](./images/Dasboard.png)
 
 Click the **Create Your First Private Testnet**  to start configuring your test blockchain.
 
-![Untitled](./images/Untitled%202.png)
+![Untitled](./images/testnet.jpeg)
 
 A: Forking Options
 
-![Untitled](./images/Untitled%203.png)
+![Untitled](./images/chaindetails.jpeg)
 
 As the name suggests, here you will have the ability to create your private testnet, forked from the state of any of the supported chains.  Currently, we support the following:
 
 1. Ethereum Mainnet
-2. Goerli Testnet
+2. Polygon Mainnet
 3. Binance Smart Chain
-4. Polygon Mainnet
-5. Polygon Testnet
+4. Optimism
+5. Fantom
+6. Arbitrum
+7. Avalanche 
+8. Goerli Testnet
+9. Sepolia Testnet
+10. Arbitrum Goerli
+11. Fantom Testnet
+12. Avalanche 
+13. Binance Smart Chain
+14. Polygon Testnet
+    
 
 You can obviously create a test blockchain, without even forking from any existing chain.
 
@@ -45,7 +55,7 @@ If you have the need to create a testnet, forking from the state of any other pu
 
 Once you’ll hit the create button, you will be redirected back to the dashboard with your the details of your new private testnet
 
-![Untitled](./images/Untitled%204.png)
+![Untitled](./images/Untitled%204.jpeg)
 
 While most of the information in the dashboard are self-explanatory, a few critical things to note:
 
@@ -81,17 +91,20 @@ Now, you can simply run any script using BuildBear network.
 
 ## STEP 5: Check your transactions on BuildBear Explorer
 
-Go to the BuildBear dashboard and hit the **open explorer** option and click on **Show** **all Transactions.** 
+Go to the BuildBear dashboard and hit the **open explorer** option 
 
-You can also see the trace ****of your transaction and can also decode ****your transaction using the **advanced** option. 
+![Untitled](./images/exp.jpeg)
+
+You can also see the trace **of your transaction and can also decode **your transaction using the **advanced** option. 
 
 You can perform as many transactions as you feel like and can use it for your web3 project! 
 
 ## STEP 6: (Optional and Advanced) Use Debug your Transactions
 
-In order to understand what transpired, at the blockchain level, in your transactions, go back to the BuildBear Dashboard and click on the `Submit Artifacts` ****and then submit the “artifacts” folder from your project folder. (This is only for your contracts).  *{If you have forked from a public blockchain and those contracts are verified, you do NOT need to do this step for those contracts}*
+In order to understand what transpired, at the blockchain level, in your transactions, go back to the BuildBear Dashboard and click on the `Verify Contracts` and then submit the “artifacts” folder from your project folder. (This is only for your contracts).  *{If you have forked from a public blockchain and those contracts are verified, you do NOT need to do this step for those contracts}*
 
-![Untitled](./images/Untitled%206.png)
+![Untitled](./images/Untitled%204.jpeg)
+![Untitled](./images/new.jpeg)
 
 Once done, you can actually deconstruct your transactions on BuildBear Explorer by clicking on the **Advance** option.
 
@@ -99,12 +112,11 @@ You should see your something similar to the image below:
 
  
 
-![Untitled](./images/Untitled%207.png)
+![Untitled](./images/Explorer-BuildBear.png)
 
 This is one of the most simple example just to demonstrate.  Feel free to do complex transactions and see the interactions between different smart contracts, function calls, parameters passed, gas used, output delivered and much more.
 
 **To get started with BuildBear, click on [this link](http://buildbear.io) and create your own testnet now!** 
 
-We have a few more tutorials for us to guide you on how you can use BuildBear further, over here: [BuildBear Wiki](https://www.notion.so/BuildBear-Wiki-7ebf492288b44e0d84ee12d676d462b4) 
 
 ## If you are facing any issues with BuildBear, feel free to report them to us at **[team@buildbear.io](mailto:team@buildbear.io)**

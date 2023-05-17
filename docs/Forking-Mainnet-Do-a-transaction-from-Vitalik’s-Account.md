@@ -65,7 +65,7 @@ To execute that update the *hardhat.config.js* to as follows:
 
 ![carbon.png](ForkingEthereumMainnet/carbon.png)
 
-For forking the mainnet, create an API URL for main network on Alchemy and then open [BuildBear](https://bit.ly/buildbear-dashboard) and create an endpoint and add the specific block number. Refer to the [Getting Started](https://www.notion.so/Getting-Started-8e561563dd2e410c969874ba3c1684ee) Guide for instructions.
+For forking the mainnet, create an API URL for main network on Alchemy and then open [BuildBear](https://bit.ly/buildbear-dashboard) and create an endpoint and add the specific block number. Refer to the [Getting Started](http://localhost:3000/docs/Forking-Mainnet-Do-a-transaction-from-Vitalik%E2%80%99s-Account) Guide for instructions.
 
 Then copy the BuildBear RPC URL and use it in your Hardhat.config.js file.
 

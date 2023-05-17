@@ -7,7 +7,7 @@ sidebar_position: 6
 > *Tests validate behaviors within your smart contract. They give you confidence that your code performs in the ways that you intend, and does not perform in the ways that it should not.*
 > 
 
-In the previous tutorial [Fork 🍴the F*ing Mainnet! Do a transaction from Vitalik’s Account ;) ](https://www.notion.so/Fork-the-F-ing-Mainnet-Do-a-transaction-from-Vitalik-s-Account-01c47af9e7d84060812007f26f33a7d9) , we learnt about *mainnet forking* and played with Vitalik’s account using *impersonate account.* 
+In the previous tutorial *Forking Mainnet! Do a transaction from Vitalik’s Account *  , we learnt about *mainnet forking and played with Vitalik’s account using *impersonate account.* 
 
 Now we have decided to take this further and test out the [Uniswap’s](https://uniswap.org/) swap implementation. Yes! You heard it correct 😎
 
@@ -27,7 +27,7 @@ NOTE: We recommend you go through the [previous part](https://medium.com/uv-labs
 
 ***So let’s get started!*** 🥳🥳
 
-## ****1. Create a project and initialize it****
+## **1. Create a project and initialize it**
 
 Use the following commands on your CLI to initialize your project.
 
@@ -42,7 +42,7 @@ Install the required dependencies for the project, run
 npm install --save hardhat @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle ethers @uniswap/v2-core 
 ```
 
-## ****2. Initialize your Hardhat project****
+## **2. Initialize your Hardhat project**
 
 To initialize your Hardhat project, run `npx hardhat` command in your CLI, and create an empty *config.js* file.
 

@@ -197,15 +197,13 @@ You may see the results like:
 
 To learn more about your deployed smart contract, open [BuildBear Explorer](https://explorer.buildbear.io/)
 
-![Screenshot from 2022-07-26 06-38-27.png](CreatingandDeployingContract/Screenshot_from_2022-07-26_06-38-27.png)
+![Screenshot from 2022-07-26 06-38-27.png](CreatingandDeployingContract/contract.jpeg)
 
 Here, you can see the information regarding your transaction. 
 
 You can check the **Timestamp** of the contract deployment, the gas price used, and many more information. 
 
 In order to see under the hood, go through the Alchemy Dashboard, where you might see a bunch of JSON-RPC calls made by our smart contract. 
-
-That’s all for part-1 of this tutorial. In further parts, we will see how can we mint our own ‘NFT’.
 
 And feel free to share your first experience with us on writing your first smart contract. 
 
