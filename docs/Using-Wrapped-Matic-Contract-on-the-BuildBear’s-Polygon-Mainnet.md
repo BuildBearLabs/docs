@@ -72,7 +72,7 @@ Your screen should be something similar to this:
 
 OPTIONAL: You can visit the `Trace` tab to see what happened in your transaction:
 
-![Untitled](./UsingWrappedMatic/Trace.jpeg)
+![Untitled](./UsingWrappedMatic/trace.jpeg)
 
 You can similarly interact with any contract on the Polygon Mainnet and see what you can do in a transaction.
 
