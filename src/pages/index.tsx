@@ -17,8 +17,15 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
+            style={{width: '160px'}}
             to="/docs/intro">
-            BuildBear Docs
+            Docs
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            style={{width: '160px'}}
+            to="/docs/MediumTutorial">
+            Tutorials
           </Link>
         </div>
       </div>
@@ -33,9 +40,9 @@ export default function Home(): JSX.Element {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
+      {/* <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }
