@@ -19,9 +19,9 @@ In order to create a node, follow this [link](https://bit.ly/buildbear-dashboard
 
 Once you’re logged in, you will be able to see a page similar to the image below
 
-![Untitled](./images/Dasboard.png)
+![Untitled](./images/Dasboard.jpg)
 
-Click the **Create Your First Private Testnet**  to start configuring your test blockchain.
+Click the **Create BuildBear Testnet**  to start configuring your test blockchain.
 
 ![Untitled](./images/testnet.jpeg)
 

@@ -78,6 +78,11 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://home.dev.buildbear.io/',
+            label: 'Go To BuildBear Dashboard',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/BuildBearLabs/Tutorials',
             label: 'GitHub',
             position: 'right',

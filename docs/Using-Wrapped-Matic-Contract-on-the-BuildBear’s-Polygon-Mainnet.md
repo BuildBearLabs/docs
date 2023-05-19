@@ -17,7 +17,7 @@ Today, we are evaluating the strength of BuildBear’s Forked Mainnet strength t
 
 (A) Visiting BuildBear ([https://home.buildbear.io/](https://home.buildbear.io/)) to create the node
 
-![Untitled](./images/Dasboard.png)
+![Untitled](./images/Dasboard.jpg)
 
 (B) Click on `Create Testnet` , Select `Polygon Mainnet`, click on `Next` and then hit the `create` button right at the bottom of the screen
 

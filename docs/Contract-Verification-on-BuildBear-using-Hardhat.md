@@ -49,7 +49,7 @@ That is it.  Once the above is done, run your scripts to deploy and verify your 
 
 NOTE: Your dashboard should provide the code snippets.  Sample screenshots below: 
 
-![Untitled](./images/Dasboard.png)
+![Untitled](./images/Dasboard.jpg)
 
 ![Untitled](./images/config.jpeg)
 
