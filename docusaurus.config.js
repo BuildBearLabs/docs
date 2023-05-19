@@ -78,7 +78,7 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://home.dev.buildbear.io/',
+            href: 'https://home.buildbear.io/',
             label: 'Go To BuildBear Dashboard',
             position: 'left',
           },
