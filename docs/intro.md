@@ -65,8 +65,6 @@ While creating your testnet you will have the option (in Advanced options) to cr
 1. **Forked From**: 
 This is a simple information on the fact if the testnet was created using forking from the state of any public chain.
 
-You have the **container name** here, followed by the **restart, delete, metamask** and **advanced** options. 
-
 **Metamask** option will allow you to connect your RPC URL with your Metamak wallet with the help of just **one click.** 
 
 Other then the above, you have your regular **RPC URL, Explorer, and Faucet.** 
@@ -79,13 +77,10 @@ You can also use the same faucet for ERC20 Tokens as well.  More over here: [htt
 
 Yes, you can also fund any other wallet address right from here.
 
-BTW, you can restrict this feature while creating your node, in case you do not want your users to exploit this feature.
+## STEP 4: Add BuildBear network to your network in your config files 
 
-## STEP 4: Add BuildBear network to your network
+For eg, for your hardhat.config you could simply click the Verify Contracts and it it will give you teh instructions that you must follow to update your network in the hardhat.config file 
 
-For eg, your hardhat.config.js could look similar to the below image. 
-
-![Untitled](./images/Untitled%205.png)
 
 Now, you can simply run any script using BuildBear network. 
 
