@@ -79,7 +79,7 @@ Yes, you can also fund any other wallet address right from here.
 
 ## STEP 4: Add BuildBear network to your network in your config files 
 
-For eg, for your hardhat.config you could simply click the Verify Contracts and it it will give you teh instructions that you must follow to update your network in the hardhat.config file 
+For eg, for your hardhat.config you could simply click the Verify Contracts and it it will give you the instructions that you must follow to update your network in the hardhat.config file 
 
 
 Now, you can simply run any script using BuildBear network. 
