@@ -24,7 +24,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             style={{width: '160px'}}
-            to="/docs/MediumTutorial">
+            to="/docs/Tutorial">
             Tutorials
           </Link>
         </div>
