@@ -7,7 +7,7 @@ Following are the instructions for you to update your `hardhat.config.js` or `ha
 
 NOTE: All the necessary code snippets that you will need for your hardhat.config file is available for you in your BuildBear dashboard. You just have to copy and paste them.
 
-**Step 1: Add BuildBear to your Networks**
+## Step 1: Add BuildBear to your Networks
 
 Add a new object `buildbear` in the `networks` object in your `hardhat.config.js` or `hardhat.config.ts`; similar to the following:
 
@@ -21,7 +21,7 @@ networks: {
 }
 ```
 
-**Step 2: Add a Custom Chain to the Etherscan Object**
+## Step 2: Add a Custom Chain to the Etherscan Object
 
 Add a new object `customChain` in the `etherscan` similar to the following:
 
@@ -48,8 +48,6 @@ etherscan: {
 That is it.  Once the above is done, run your scripts to deploy and verify your smart contracts programmatically on BuildBear.
 
 NOTE: Your dashboard should provide the code snippets.  Sample screenshots below: 
-
-![Untitled](./images/Dasboard.jpg)
 
 ![Untitled](./images/config.jpeg)
 
