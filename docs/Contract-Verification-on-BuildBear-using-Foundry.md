@@ -35,7 +35,7 @@ forge script script/<SCRIPT_NAME>.s.sol --rpc-url buildbear --private-key "<PRIV
 ```json
 // CUSTOMIZED CODE SNIPPET AVAILABLE IN YOUR DASHBOARD
 run-script script_name flags='' sig='' args='':
-  sh -c 'FOUNDRY_PROFILE=ci forge script script/<SCRIPT_NAME>.s.sol {{sig}} {{args}} \
+  sh -c 'FOUNDRY_PROFILE=ci forge script script/{{script_name}}.s.sol {{sig}} {{args}} \
     --rpc-url "https://rpc.buildbear.io/Sandbox_ID" \
     --private-key "<PRIVATE_KEY_OF_UNLOCKED_ACCOUNTS>" \
     --etherscan-api-key "verifyContract" \
