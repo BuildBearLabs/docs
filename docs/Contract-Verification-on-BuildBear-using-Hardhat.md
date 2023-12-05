@@ -15,7 +15,7 @@ Add a new object `buildbear` in the `networks` object in your `hardhat.config.js
 // CUSTOMIZED CODE SNIPPET AVAILABLE IN YOUR DASHBOARD
 networks: {
   buildbear: {
-    url: "https://rpc.buildbear.io/Cultural_Lando_Calrissian_af374758",  
+    url: "https://rpc.buildbear.io/Sandbox_ID",  
 		accounts: ["Add Private Key Here"],
   }
 }
@@ -37,8 +37,8 @@ etherscan: {
       chainId: 8120,
 			// Insert the ChainId received from BuildBear Dashboard
       urls: {
-        apiURL:"https://rpc.buildbear.io/verify/etherscan/Zealous_Quarsh_Panaka_a3f640f8",
-        browserURL: "https://explorer.buildbear.io/node/Zealous_Quarsh_Panaka_a3f640f8",
+        apiURL:"https://rpc.buildbear.io/verify/etherscan/Sandbox_ID",
+        browserURL: "https://explorer.buildbear.io/node/Sandbox_ID",
       },
     },
   ],
