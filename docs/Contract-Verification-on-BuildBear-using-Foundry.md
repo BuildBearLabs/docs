@@ -50,7 +50,7 @@ To execute the justfile to deploy/verify contracts, use the following command:
 ```json
 just deploy-verify
 ```
-## For Free Users 
+## For Non-Premium Users 
 Important Note: *Foundry currently supports script-based verification exclusively for Public Chains, i.e, for Chains whose Chain IDs it recognises. Thus, this process is practically only useful if you have deployed 1 or 2 contracts:*
 
 ### Step 1: Add BuildBear to your Foundry.toml file

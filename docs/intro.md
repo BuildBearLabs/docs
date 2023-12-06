@@ -26,7 +26,7 @@ Once you’re logged in, you will be able to see a page similar to the image bel
 
 Click the **Create BuildBear Testnet**  to start configuring your test blockchain.
 
-![Untitled](./images/testnet.jpeg)
+![Untitled](./images/Home-BuildBear%20(6).png)
 
 A: Forking Options
 
@@ -62,7 +62,7 @@ If you have the need to create a testnet, forking from the state of any other pu
 
 Once you’ll hit the create button, you will be redirected back to the dashboard with your the details of your new private testnet Sandbox
 
-![Untitled](./images/Untitled%204.jpeg)
+![Untitled](./images/Home-BuildBear%20(5).png)
 
 While most of the information in the dashboard are self-explanatory, a few critical things to note:
 
@@ -92,6 +92,9 @@ Yes, you can also fund any other wallet address right from here.
 
 On your BuildBear Dashboard click on the **Verify Contracts** and it it will give you the instructions that you must follow to update your network in the hardhat.config & foundry.toml file 
 
+- For Hardhat [Follow this instructions](https://docs.buildbear.io/docs/Contract-Verification-on-BuildBear-using-Hardhat)
+- For Foundry [Follow this instructions](https://docs.buildbear.io/docs/Contract-Verification-on-BuildBear-using-Foundry) 
+
 ![Untitled](./images/verify-contract.png)
 
 Now, you can simply run any script using BuildBear network. 
@@ -108,18 +111,11 @@ You can perform as many transactions as you feel like and can use it for your we
 
 ## STEP 6: Use Debug your Transactions
 
-In order to understand what transpired, at the blockchain level, in your transactions, go back to the BuildBear Dashboard and click on the `Verify Contracts` and then submit the “artifacts” folder from your project folder. (This is only for your contracts).  *{If you have forked from a public blockchain and those contracts are verified, you do NOT need to do this step for those contracts}*
-
-![Untitled](./images/Untitled%204.jpeg)
-![Untitled](./images/new.jpeg)
-
-Once done, you can actually deconstruct your transactions on BuildBear Explorer by clicking on the **Advance** option.
-
-You should see your something similar to the image below:
+If you've verified the contract or it's already verified on Etherscan, any transactions you make with it will be broken down for a clear understanding, as shown below.
 
 ![Untitled](./images/Explorer-BuildBear.png)
 
-This is one of the most simple example just to demonstrate.  Feel free to do complex transactions and see the interactions between different smart contracts, function calls, parameters passed, gas used, output delivered and much more.
+This is a simple example to help you see how it works. You can try more complicated transactions to explore the interactions between different smart contracts, function calls, passed parameters, used gas, delivered output, and more.
 
 **Head Over to [BuildBear](http://buildbear.io) and create your own Private testnet Sandbox now!** 
 

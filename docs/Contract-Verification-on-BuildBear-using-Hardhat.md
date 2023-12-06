@@ -5,7 +5,9 @@ sidebar_position: 3
 
 Following are the instructions for you to update your `hardhat.config.js` or `hardhat.config.ts` file to be able to deploy and verify your smart contracts programmatically.  
 
-NOTE: All the necessary code snippets that you will need for your hardhat.config file is available for you in your BuildBear dashboard. You just have to copy and paste them.
+NOTE: All the necessary code snippets that you will need for your hardhat.config file is available for you in your BuildBear dashboard. You just have to copy and paste them. As shown below.
+
+![Untitled](./images/Home-BuildBear%20(7).png)
 
 ## Step 1: Add BuildBear to your Networks
 
@@ -47,8 +49,6 @@ etherscan: {
 
 That is it.  Once the above is done, run your scripts to deploy and verify your smart contracts programmatically on BuildBear.
 
-NOTE: Your dashboard should provide the code snippets.  Sample screenshots below: 
 
-![Untitled](./images/config.jpeg)
 
 ## If you are facing any issues with BuildBear, feel free to report them to us at **[team@buildbear.io](mailto:team@buildbear.io)**
