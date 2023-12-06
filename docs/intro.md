@@ -16,9 +16,9 @@ BuildBear is a specialized platform for DApp development and testing. Developers
 
 ## STEP 1: Sign in to the BuildBear Dashboard
 
-In order to create a node, follow this [link](https://bit.ly/buildbear-dashboard) and **Log in** with using your Github or Google Account.
+**Sign in** with using your Github or Google or wallet.
 
-![Untitled](./images/Untitled.jpeg)
+![Untitled](./images/Login-BuildBear.png)
 
 Once you’re logged in, you will be able to see a page similar to the image below
 

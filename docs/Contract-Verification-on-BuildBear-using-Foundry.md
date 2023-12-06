@@ -75,13 +75,16 @@ Upgrade to a premium account to align your Sandbox with Mainnet's chain ID. This
 
 ### Premium Features
 
-1. **Static RPC:** All Sandboxes created by BuildBear have a unique RPC. For our premium clients, a static RPC is allocated to their Sandboxes consistently. This aids in configuring hardhat, Foundry, and project files.
-2. **Extended Sandbox Life:** Currently, any sandbox created by free users that remains unused for a period of 4 days is pruned by our system. However, for premium users, their sandboxes will not be pruned and will enjoy an extended lifespan.
-3. **Third-party Integrations:**
-Enhance your sandbox by integrating additional services like Gelato for automated smart contract execution, Gnosis Safe for a secure smart contract wallet, Chainlink for decentralized token price feeds, and more.
-4. **Scalability:**
-Initially, BuildBear sandboxes start at a very basic level. However, as the workload on the sandbox grows due to testing or application expansion, the sandbox resources autonomously adjust to meet your usage requirements and accommodate growth.
-5. **Sandbox Chain ID:**
-Currently, sandboxes created by free users receive a chain ID that is different from the Mainnet they were forked from. However, for premium users, their sandboxes have the same chain ID as the Mainnet they were forked from.
+1. **Static RPC:** Get a dedicated RPC for your BuildBear sandboxes, making it easier to configure hardhat, Foundry, and project files.
+
+2. **Extended Sandbox Life:** Your BuildBear sandboxes won't be deleted if they're inactive for a while, giving you more flexibility.
+
+3. **Enhanced Integrations:** Integrate with popular services like Gelato, Gnosis Safe, and Chainlink to expand your sandbox's capabilities.
+
+4. **Automatic Scalability:** Your BuildBear sandbox resources will automatically adjust to meet your usage demands, ensuring smooth operation.
+
+5. **Matching Chain ID:** Your BuildBear sandbox will have the same Chain ID as the Mainnet it's forked from, simplifying development.
+
+
 
 #### For further discussions and details, feel free to reach out to us at [team@buildbear.io](mailto:team@buildbear.io) or through our Chat Bot.
