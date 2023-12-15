@@ -60,10 +60,6 @@ You can see all the transactions that have happened, interact with deployed cont
 
 There are two ways to deploy your contract to your BuildBear Sandbox:
 
-**Please Note:** *BuildBear Sandbox doesn't currently support the `evm version: shanghai`. Go to the **"SOLIDITY COMPILER"** section, click on **"Advanced Configurations"**, and change the `evm version` to another supported option.*
-
-![image](images/evm_version.png)
-
 **a) Using MetaMask:**
 
 1. **Connect MetaMask:** Go to the **"DEPLOY & RUN TRANSACTIONS"** section and choose **"Injected Provider"** as the environment. This connects your MetaMask wallet to Remix, allowing you to deploy and sign contracts directly from MetaMask.
